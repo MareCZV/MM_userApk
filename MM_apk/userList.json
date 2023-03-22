@@ -1,0 +1,17 @@
+{
+  "userList": [
+      {
+        "id": "1",
+        "Name": "Tom",
+        "lastName": "Cruise",
+        "email": "markomitrovic202@gmail.com",
+        "gender": "male",
+        "dateOfBirth": "25.9.1998",
+        "street": "Milovana Lazarevica",
+        "city": "Lazarevac",
+        "postalCode": "11550",
+        "phone": "0628364599",
+        "imagePath": "0"
+      },
+   ]
+}

@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/Images"/>
+    <qresource prefix="/">
+        <file>Images/bikovic.jpg</file>
+        <file>Images/blank.png</file>
+        <file>Images/jenna.png</file>
+        <file>Images/margot.jpg</file>
+        <file>Images/tom.jpg</file>
+        <file>JSON directory/userList.json</file>
+        <file>appStyle.qss</file>
+    </qresource>
+    <qresource prefix="/JSON directory"/>
+</RCC>

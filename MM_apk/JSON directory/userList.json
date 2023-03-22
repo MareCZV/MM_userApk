@@ -1,0 +1,52 @@
+{
+  "userList": [
+{
+        "Name": "Tom",
+        "lastName": "Cruise",
+        "email": "tom@gmail.com",
+        "gender": "male",
+        "dateOfBirth": "3.7.1962",
+        "street": "tom Cruse street",
+        "city": "New york",
+        "postalCode": "11445",
+        "phone": "123123123",
+        "imagePath": "tom.jpg"
+      },
+{
+        "Name": "Margot",
+        "lastName": "Robbie",
+        "email": "margot@gmail.com",
+        "gender": "female",
+        "dateOfBirth": "2.7.1990",
+        "street": "Asutralia street",
+        "city": "Dalby",
+        "postalCode": "11222",
+        "phone": "321321321",
+        "imagePath": "margot.jpg"
+      },
+{
+        "Name": "Jenna",
+        "lastName": "Ortega",
+        "email": "jenna@gmail.com",
+        "gender": "female",
+        "dateOfBirth": "27.9.2002",
+        "street": "Adams street",
+        "city": "Los Angeles",
+        "postalCode": "10300",
+        "phone": "890890890",
+        "imagePath": "jenna.png"
+      },
+{
+        "Name": "Milos",
+        "lastName": "Bikovic",
+        "email": "maras@gmail.com",
+        "gender": "male",
+        "dateOfBirth": "13.1.1988",
+        "street": "Nemanjina",
+        "city": "Beograd",
+        "postalCode": "11050",
+        "phone": "0624445999",
+        "imagePath": "bikovic.jpg"
+      }
+   ]
+}
